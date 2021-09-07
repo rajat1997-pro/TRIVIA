@@ -109,4 +109,7 @@ button:hover{
   .nav-bar a{
     font-size: 10px;
   }
+  .question-list{
+    font-size: 19px;
+  }
 }
