@@ -8,7 +8,6 @@ It's a simple website where 10 questions will be displayed to the user which are
 - Fully Responsive
 - Grid Layout
 - Cross platform
-- Roll Back and Reset Functionality
 
 
 ## Color Reference
