@@ -33,4 +33,7 @@ It's a simple website where 10 questions will be displayed to the user which are
 
 ## Screenshots
 
-!["desktop"](images/desktop-preview.png)
+![desktop](images/desktop-preview.png)
+![mobile](images/mobile-preview.png)
+![questions](images/question-list.png)
+![active-state](images/website-active.png)
